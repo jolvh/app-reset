@@ -52,6 +52,7 @@ select {
   background: transparent;
   color: unset;
   border-radius: 0;
+  -webkit-appearance: none;
 }
 
 input[type="search"]::-webkit-search-decoration,
